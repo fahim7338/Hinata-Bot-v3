@@ -1,1 +1,74 @@
-add ur c3c cookie here
+[
+    {
+        "key": "datr",
+        "value": "StD4aXlC2Mjr2CKbFvwgd6Ds",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-04T17:09:34.990Z",
+        "lastAccessed": "2026-05-04T17:09:34.991Z"
+    },
+    {
+        "key": "sb",
+        "value": "StD4aawl63QtyzORxMVeXP0_",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-04T17:09:34.991Z",
+        "lastAccessed": "2026-05-04T17:09:34.991Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-04T17:09:34.991Z",
+        "lastAccessed": "2026-05-04T17:09:34.991Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x820",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-04T17:09:34.991Z",
+        "lastAccessed": "2026-05-04T17:09:34.991Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61588704917179",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-04T17:09:34.991Z",
+        "lastAccessed": "2026-05-04T17:09:34.991Z"
+    },
+    {
+        "key": "xs",
+        "value": "37%3AjCpDH7UTCzMFLg%3A2%3A1777914446%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-04T17:09:34.991Z",
+        "lastAccessed": "2026-05-04T17:09:34.991Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-04T17:09:34.991Z",
+        "lastAccessed": "2026-05-04T17:09:34.991Z"
+    },
+    {
+        "key": "pas",
+        "value": "61588704917179%3AMwqMAc5RJ0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-04T17:09:34.991Z",
+        "lastAccessed": "2026-05-04T17:09:34.991Z"
+    }
+]
